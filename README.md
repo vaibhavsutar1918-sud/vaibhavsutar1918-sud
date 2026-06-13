@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm vaibhav sutar</h1>
-<h3 align="center">A passionate Data scientist from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right"alt="coding"width="400" src="https://media1.tenor.com/m/zn8iyusePtgAAAAC/joy.gif" >
 
 
